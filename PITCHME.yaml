@@ -1,0 +1,7 @@
+print-fragments: false
+print-footer: true
+printer-notes: false
+
+footnote : "© 2019 A Simple Test"
+
+
